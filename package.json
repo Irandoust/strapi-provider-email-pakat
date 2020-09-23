@@ -1,45 +1,42 @@
 {
-  "name": "strapi-provider-email-sendinblue",
-  "version": "1.0.5",
-  "description": "Sendinblue provider for strapi email",
-  "homepage": "https://github.com/eddybordi/strapi-provider-email-sendinblue",
-  "keywords": [
-    "email",
-    "strapi",
-    "sendinblue"
-  ],
-  "directories": {
-    "lib": "./lib"
-  },
-  "main": "./lib",
-  "dependencies": {
-    "sib-api-v3-sdk": "^7.1.2"
-  },
-  "strapi": {
-    "isProvider": true
-  },
-  "author": {
-    "email": "eddy@bordi.fr",
-    "name": "Eddy Bordi",
-    "url": "https://bordi.fr"
-  },
-  "maintainers": [
-    {
-      "email": "eddy@bordi.fr",
-      "name": "Eddy Bordi",
-      "url": "https://bordi.fr"
-    }
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:eddybordi/strapi-provider-email-sendinblue.git"
-  },
-  "bugs": {
-    "url": "https://github.com/eddybordi/strapi-provider-email-sendinblue/issues"
-  },
-  "engines": {
-    "node": ">= 10.0.0",
-    "npm": ">= 6.0.0"
-  },
-  "license": "MIT"
+	"name": "strapi-provider-email-pakat",
+	"version": "1.0.0",
+	"description": "This is the repository for Pakat provider for strapi email which is a fork of Strapi Provider Email Sendinblue on https://github.com/eddybordi/strapi-provider-email-sendinblue.",
+	"homepage": "https://gitlab.com:denxa/strapi-provider-email-pakat.git",
+	"keywords": [
+		"email",
+		"strapi",
+		"sendinblue"
+	],
+	"directories": {
+		"lib": "./lib"
+	},
+	"main": "./lib",
+	"dependencies": {
+		"pakat-api-v3-sdk": "^7.1.2"
+	},
+	"strapi": {
+		"isProvider": true
+	},
+	"author": {
+		"email": "eddy@bordi.fr",
+		"name": "Eddy Bordi",
+		"url": "https://bordi.fr"
+	},
+	"maintainers": [
+		{
+			"email": "cto@denxa.ca",
+			"name": "Ali Irandoust",
+			"url": "https://denxa.ca"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "git@gitlab.com:denxa/strapi-provider-email-pakat.git"
+	},
+	"engines": {
+		"node": ">= 10.0.0",
+		"npm": ">= 6.0.0"
+	},
+	"license": "MIT"
 }
