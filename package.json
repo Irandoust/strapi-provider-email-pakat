@@ -1,7 +1,7 @@
 {
 	"name": "strapi-provider-email-pakat",
 	"version": "1.0.0",
-	"description": "This is the repository for Pakat provider for strapi email which is a fork of Strapi Provider Email Sendinblue on https://github.com/eddybordi/strapi-provider-email-sendinblue.",
+	"description": "Pakat provider for strapi email is a fork of Strapi Provider Email Sendinblue on https://github.com/eddybordi/strapi-provider-email-sendinblue.",
 	"homepage": "https://gitlab.com:denxa/strapi-provider-email-pakat.git",
 	"keywords": [
 		"email",
@@ -23,13 +23,11 @@
 		"name": "Eddy Bordi",
 		"url": "https://bordi.fr"
 	},
-	"maintainers": [
-		{
-			"email": "cto@denxa.ca",
-			"name": "Ali Irandoust",
-			"url": "https://denxa.ca"
-		}
-	],
+	"maintainers": [{
+		"email": "cto@denxa.ca",
+		"name": "Ali Irandoust",
+		"url": "https://denxa.ca"
+	}],
 	"repository": {
 		"type": "git",
 		"url": "git@gitlab.com:denxa/strapi-provider-email-pakat.git"
