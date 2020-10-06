@@ -1,6 +1,6 @@
 {
 	"name": "strapi-provider-email-pakat",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Pakat provider for strapi email is a fork of Strapi Provider Email Sendinblue on https://github.com/eddybordi/strapi-provider-email-sendinblue.",
 	"homepage": "https://gitlab.com:denxa/strapi-provider-email-pakat.git",
 	"keywords": [
